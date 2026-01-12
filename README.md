@@ -1,6 +1,6 @@
 # Hi there! 👋
 
 ## I'm Ian
-- MVHS 2025 (Current senior)
+- Molecular and Cell Biology @ UCSD (Expected graduation 2029)
 - Started my coding journey in middle school 
-- Currently learning Python, Java, and React
+- Proficient in Python and Java
